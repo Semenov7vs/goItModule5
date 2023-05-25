@@ -7,7 +7,7 @@ import java.sql.SQLException;
 public class Database {
     private static Database INSTANCE = new Database();
     private static Connection connection;
-    private final String url = "jdbc:h2:file:D:/test";
+    private final String url = "jdbc:h2:file:C:/Users/these/Desktop/DataBase/h2/bin/GoIt";
     private final String username = "sa";
     private final String password = "1";
 

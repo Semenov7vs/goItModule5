@@ -26,7 +26,7 @@ public class DatabaseQueryService {
 //  }
 
         //Виклик find_max_salary_worker.sql
-
+//
 //        List<MaxSalary> maxSalaryList = queryService.findMaxSalary();
 //        for (MaxSalary test : maxSalaryList) {
 //            System.out.println("Name: " + test.getName() + ", Salary: " + test.getSalary());
@@ -40,7 +40,7 @@ public class DatabaseQueryService {
 //        }
 
         //Виклик print_project_prices.sql
-
+//
 //        List<ProjectPrices> projectPricesList = queryService.findPricesOfProjects();
 //        for (ProjectPrices test : projectPricesList) {
 //            System.out.println("Id: " + test.getProjectId() + ", Cost: " + test.getProjectCost());
